@@ -7,4 +7,4 @@ A simple Modular Task Manager built with JavaScript, HTML, and CSS.The features 
 4. Filter tasks: All / Active / Done
 5. Tasks persist in the browser with localStorage
 
-The live URL is 
+The live URL is https://gathigiaflorence.github.io/ModularTask/
